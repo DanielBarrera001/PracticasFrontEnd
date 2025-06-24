@@ -1,4 +1,4 @@
-# 🚀 Proyectos Frontend: Explorando el Desarrollo Web
+![image](https://github.com/user-attachments/assets/fc39c1d6-ebb4-4a85-b693-077b37d9609f)# 🚀 Proyectos Frontend: Explorando el Desarrollo Web
 
 ¡Bienvenido a este repositorio! Aquí encontrarás una colección de proyectos y prácticas que reflejan mi aprendizaje y experiencia en el desarrollo frontend. Este espacio está dedicado a la creación de interfaces de usuario interactivas y visualmente atractivas.
 
@@ -16,6 +16,8 @@ En estos proyectos, he trabajado y aplicado las siguientes tecnologías fundamen
 Este repositorio contiene varios subproyectos, cada uno con un enfoque específico, pero todos construidos sobre las bases del desarrollo frontend. Algunos de los proyectos que podrás encontrar son:
 
 * **`FrontEndCoffee`**: Un proyecto que simula una página web de una cafetería, mostrando habilidades en maquetación y estilizado.
+![image](https://github.com/user-attachments/assets/97494290-c328-48f8-964c-68b4604f4ce2)
+
 * **`FrontEndFestival`**: Una landing page o sitio web para un festival, explorando diseños responsivos y elementos interactivos.
 * **`FrontEndPractice`**: Diversas prácticas y experimentos de código para reforzar conceptos específicos de HTML y CSS.
 * **`FrontEndStore`**: Un ejemplo de tienda en línea simple, demostrando la estructura de productos y navegación.
