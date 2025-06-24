@@ -39,7 +39,14 @@ Este repositorio contiene varios subproyectos, cada uno con un enfoque específi
 * **`FrontEndStore`**: Un ejemplo de tienda en línea simple, demostrando la estructura de productos y navegación.
     <br>
     <div align="center">
-        <img src="https://github.com/user-attachments/assets/fd34551c-2e40-40f4-ad06-caf113c875e7" alt="Captura de pantalla de FrontEndStore" width="600px">
+        <img src= "https://github.com/user-attachments/assets/2283b9fd-caec-4c42-bfb1-0f55ccb0cc0a" alt="Captura de pantalla de FrontEndStore" width="600px">
+    </div>
+    <br>
+
+* **`BienesRaices`**: Un sitio web moderno y responsivo para una inmobiliaria, destacando propiedades, blog y testimonios.
+    <br>
+    <div align="center">
+        <img src="https://github.com/user-attachments/assets/fd34551c-2e40-40f4-ad06-caf113c875e7" alt="Captura de pantalla de BienesRaices" width="600px">
     </div>
     <br>
 
